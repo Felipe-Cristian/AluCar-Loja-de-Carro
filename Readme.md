@@ -1,0 +1,1 @@
+Esse é um projeto acadêmico onde o foco era na criação de um formulário que enviasse os dados de forma correta ao back-end, que por sua vez, mostrava na tela uma mensagem dizendo que havia recebido os dados com sucesso.
